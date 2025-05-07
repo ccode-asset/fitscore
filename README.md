@@ -13,7 +13,9 @@
 <img src="https://img.shields.io/github/workflow/status/brampf/fitscore/Swift" alt="Swift">
 </p>
 
-A native Swift library to read and write FITS files
+A native Swift library to read and write FITS files.
+
+This library is forked from [ahlim3/fitscore](https://github.com/ahlim3/fitscore), which is forked from [brampf/fitscore](https://github.com/brampf/fitscore).
 
 ## Description
 
